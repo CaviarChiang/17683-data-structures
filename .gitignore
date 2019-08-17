@@ -27,6 +27,7 @@ hs_err_pid*
 
 # IntelliJ
 *.iml
+*.xml
 
 # No course material
 *.pdf
